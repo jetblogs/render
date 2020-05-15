@@ -24,21 +24,7 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libidman-caps-preco/</loc>
-        <lastmod>2020-05-08T02:07:34.643Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-vale-a-pena/</loc>
-        <lastmod>2020-05-14T00:36:18.388Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-original/</loc>
         <lastmod>2020-05-14T00:36:18.388Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -68,6 +54,48 @@
     <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-05-14T00:36:18.388Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libidman-caps-preco/</loc>
+        <lastmod>2020-05-15T22:43:41.460Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-original/</loc>
+        <lastmod>2020-05-15T22:43:41.460Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-05-15T22:43:41.460Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-anvisa/</loc>
+        <lastmod>2020-05-15T22:43:41.460Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-funciona-mesmo/</loc>
+        <lastmod>2020-05-15T22:43:41.460Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-composicao/</loc>
+        <lastmod>2020-05-15T22:43:41.460Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
