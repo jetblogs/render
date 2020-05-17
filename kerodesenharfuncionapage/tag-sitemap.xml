@@ -24,13 +24,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/kerodesenhar-info/</loc>
-        <lastmod>2020-04-28T05:46:44.128Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/desenhar-animes/</loc>
         <lastmod>2020-04-28T05:46:44.128Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -68,13 +61,6 @@
     <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/goku/</loc>
         <lastmod>2020-05-14T00:30:36.764Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/curso/</loc>
-        <lastmod>2020-05-15T21:38:34.076Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -131,6 +117,48 @@
     <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/para-iniciantes/</loc>
         <lastmod>2020-05-16T18:43:07.740Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/kerodesenhar-info/</loc>
+        <lastmod>2020-05-17T14:24:14.890Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/desenhar-do-zero/</loc>
+        <lastmod>2020-05-17T14:24:14.890Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/aulas-online/</loc>
+        <lastmod>2020-05-17T14:24:14.890Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/manga-para-iniciantes/</loc>
+        <lastmod>2020-05-17T14:24:14.890Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/curso/</loc>
+        <lastmod>2020-05-17T14:24:14.890Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/a-distancia/</loc>
+        <lastmod>2020-05-17T14:24:14.890Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
