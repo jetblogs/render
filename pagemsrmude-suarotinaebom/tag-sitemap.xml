@@ -3,21 +3,7 @@
 
 
     <url>
-        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/mude-sua-rotina-resultados/</loc>
-        <lastmod>2020-05-08T04:34:50.882Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/msr-resultados/</loc>
-        <lastmod>2020-05-08T04:34:50.882Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/afiliado/</loc>
         <lastmod>2020-05-08T04:34:50.882Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -101,13 +87,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/afiliado-iniciante/</loc>
-        <lastmod>2020-05-16T19:47:22.729Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/eduzz/</loc>
         <lastmod>2020-05-17T15:43:30.455Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -131,6 +110,41 @@
     <url>
         <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/marketing/</loc>
         <lastmod>2020-05-17T15:43:30.455Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/afiliado-iniciante/</loc>
+        <lastmod>2020-05-19T01:12:31.297Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/mude-sua-rotina-resultados/</loc>
+        <lastmod>2020-05-19T01:12:31.297Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/afiliado/</loc>
+        <lastmod>2020-05-19T01:12:31.297Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/mude-sua-rotina-compensa/</loc>
+        <lastmod>2020-05-19T01:12:31.297Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/monetizze/</loc>
+        <lastmod>2020-05-19T01:12:31.297Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
