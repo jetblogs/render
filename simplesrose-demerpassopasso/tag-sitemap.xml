@@ -199,13 +199,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/cuidar-da-pele/</loc>
-        <lastmod>2020-05-21T10:23:56.494Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling-rose-de-mer-protocolo/</loc>
         <lastmod>2020-05-21T10:23:56.494Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,6 +220,13 @@
     </url>
 
     <url>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/cuidar-da-pele/</loc>
+        <lastmod>2020-05-21T10:23:56.494Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling-rose-de-mer-cuidados/</loc>
         <lastmod>2020-05-21T10:23:56.494Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -241,14 +241,14 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling-rose-de-mer-como-funciona/</loc>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling-natural/</loc>
         <lastmod>2020-05-23T05:13:37.721Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling-natural/</loc>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling-rose-de-mer-como-funciona/</loc>
         <lastmod>2020-05-23T05:13:37.721Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -257,6 +257,34 @@
     <url>
         <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/rose-de-mer-kit/</loc>
         <lastmod>2020-05-23T05:13:37.721Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling-rose-de-mer-e-bom/</loc>
+        <lastmod>2020-05-24T14:08:12.980Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/curso-peeling-rose-de-mer-vale-a-pena/</loc>
+        <lastmod>2020-05-24T14:08:12.980Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/curso-passo-a-passo/</loc>
+        <lastmod>2020-05-24T14:08:12.980Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/beneficios-rose-de-mer/</loc>
+        <lastmod>2020-05-24T14:08:12.980Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
