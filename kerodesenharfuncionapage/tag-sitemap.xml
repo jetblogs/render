@@ -94,13 +94,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/curso/</loc>
-        <lastmod>2020-05-18T23:37:00.061Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/draw/</loc>
         <lastmod>2020-05-18T23:37:00.061Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -199,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/videos-online/</loc>
-        <lastmod>2020-05-23T05:07:57.557Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/kerodesenhar-com/</loc>
         <lastmod>2020-05-24T14:01:03.991Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -243,6 +229,34 @@
     <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/aulas-online/</loc>
         <lastmod>2020-05-24T14:01:03.991Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/curso/</loc>
+        <lastmod>2020-05-25T18:08:52.381Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/curso-de-manga/</loc>
+        <lastmod>2020-05-25T18:08:52.381Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/videos-online/</loc>
+        <lastmod>2020-05-25T18:08:52.381Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/como-desenhar-anime-e-manga/</loc>
+        <lastmod>2020-05-25T18:08:52.381Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
