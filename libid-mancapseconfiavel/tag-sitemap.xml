@@ -45,28 +45,7 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-original/</loc>
-        <lastmod>2020-05-21T10:24:10.618Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-preco/</loc>
-        <lastmod>2020-05-21T10:24:10.618Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libidman-caps-funciona/</loc>
-        <lastmod>2020-05-24T15:11:50.197Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-anvisa/</loc>
         <lastmod>2020-05-24T15:11:50.197Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -81,6 +60,13 @@
 
     <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-farmacia/</loc>
+        <lastmod>2020-05-24T15:11:50.197Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-anvisa/</loc>
         <lastmod>2020-05-24T15:11:50.197Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -164,14 +150,14 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-para-que-serve/</loc>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-composicao/</loc>
         <lastmod>2020-06-01T14:07:43.866Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-composicao/</loc>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-para-que-serve/</loc>
         <lastmod>2020-06-01T14:07:43.866Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -185,13 +171,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-06-03T00:42:10.852Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-depoimento-sincero/</loc>
         <lastmod>2020-06-03T00:42:10.852Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -199,14 +178,14 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-original/</loc>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-contem-gluten/</loc>
         <lastmod>2020-06-03T00:42:10.852Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-vale-a-pena/</loc>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-original/</loc>
         <lastmod>2020-06-03T00:42:10.852Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -248,15 +227,36 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-funciona-mesmo/</loc>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-engrossa-mesmo/</loc>
         <lastmod>2020-06-03T16:23:10.275Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-engrossa-mesmo/</loc>
-        <lastmod>2020-06-03T16:23:10.275Z</lastmod>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-vale-a-pena/</loc>
+        <lastmod>2020-06-05T10:40:24.364Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-original/</loc>
+        <lastmod>2020-06-05T10:40:24.364Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-funciona-mesmo/</loc>
+        <lastmod>2020-06-05T10:40:24.364Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-preco/</loc>
+        <lastmod>2020-06-05T10:40:24.364Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

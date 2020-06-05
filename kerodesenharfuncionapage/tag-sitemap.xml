@@ -80,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/kerodesenhar-com/</loc>
-        <lastmod>2020-05-24T14:01:03.991Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/desenho/</loc>
         <lastmod>2020-05-24T14:01:03.991Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -102,13 +95,6 @@
 
     <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/aula-de-desenho/</loc>
-        <lastmod>2020-05-24T14:01:03.991Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/curso-de-anime/</loc>
         <lastmod>2020-05-24T14:01:03.991Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -276,13 +262,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/tecnica-de-desenhar/</loc>
-        <lastmod>2020-06-02T23:49:00.694Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/speed-drawing/</loc>
         <lastmod>2020-06-02T23:49:00.694Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -292,20 +271,6 @@
     <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/kerodesenhar-funciona/</loc>
         <lastmod>2020-06-02T23:49:00.694Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/kerodesenhar/</loc>
-        <lastmod>2020-06-02T23:49:00.694Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/desenhando-animes/</loc>
-        <lastmod>2020-06-03T15:24:36.222Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -325,6 +290,13 @@
     </url>
 
     <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/desenhando-animes/</loc>
+        <lastmod>2020-06-03T15:24:36.222Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/desenhar/</loc>
         <lastmod>2020-06-03T15:24:36.222Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -334,6 +306,41 @@
     <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/desenhar-do-zero/</loc>
         <lastmod>2020-06-03T15:24:36.222Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/tecnica-de-desenhar/</loc>
+        <lastmod>2020-06-05T08:40:24.647Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/kerodesenhar/</loc>
+        <lastmod>2020-06-05T08:40:24.647Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/kerodesenhar-com/</loc>
+        <lastmod>2020-06-05T08:40:24.647Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/curso-de-anime/</loc>
+        <lastmod>2020-06-05T08:40:24.647Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/curso-kerodesenhar-com/</loc>
+        <lastmod>2020-06-05T08:40:24.647Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
