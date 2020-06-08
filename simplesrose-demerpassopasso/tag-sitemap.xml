@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/tratamento-facial/</loc>
-        <lastmod>2020-05-20T20:00:34.160Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/christina-zehavi-rose-de-mer/</loc>
         <lastmod>2020-05-21T10:23:56.494Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -108,14 +101,14 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling-rose-de-mer-vale-a-pena/</loc>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/curso-de-peeling-rose-de-mer-e-bom/</loc>
         <lastmod>2020-05-25T18:13:55.868Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/curso-de-peeling-rose-de-mer-e-bom/</loc>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling-rose-de-mer-vale-a-pena/</loc>
         <lastmod>2020-05-25T18:13:55.868Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -159,20 +152,6 @@
     <url>
         <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/beneficios-rose-de-mer/</loc>
         <lastmod>2020-05-28T13:07:53.700Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling-do-mar-morto/</loc>
-        <lastmod>2020-05-30T18:35:19.542Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/beneficios-do-peeling-rose-de-mer/</loc>
-        <lastmod>2020-05-30T18:35:19.542Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -255,13 +234,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/rose-de-mer-israel/</loc>
-        <lastmod>2020-06-02T23:53:31.634Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling-rose-de-mer-para-melasma/</loc>
         <lastmod>2020-06-03T15:29:55.584Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -270,13 +242,6 @@
 
     <url>
         <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/passo-a-passo/</loc>
-        <lastmod>2020-06-03T15:29:55.584Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/ros-de-mer-peeling/</loc>
         <lastmod>2020-06-03T15:29:55.584Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -397,6 +362,48 @@
     <url>
         <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling-rose-de-mer-funciona-mesmo/</loc>
         <lastmod>2020-06-07T21:52:15.755Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/ros-de-mer-peeling/</loc>
+        <lastmod>2020-06-08T18:17:15.685Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/tratamento-facial/</loc>
+        <lastmod>2020-06-08T18:17:15.685Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling-do-mar-morto/</loc>
+        <lastmod>2020-06-08T18:17:15.685Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/beneficios-do-peeling-rose-de-mer/</loc>
+        <lastmod>2020-06-08T18:17:15.685Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling/</loc>
+        <lastmod>2020-06-08T18:17:15.685Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/rose-de-mer-israel/</loc>
+        <lastmod>2020-06-08T18:17:15.685Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
