@@ -45,13 +45,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/kero-desenhar/</loc>
-        <lastmod>2020-05-20T19:55:23.034Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/como-melhorar-meus-desenhos/</loc>
         <lastmod>2020-05-21T12:08:15.197Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -96,20 +89,6 @@
     <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/como-desenhar-anime-e-manga/</loc>
         <lastmod>2020-05-25T18:08:52.381Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/para-iniciantes/</loc>
-        <lastmod>2020-05-27T12:05:41.271Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/online/</loc>
-        <lastmod>2020-05-27T12:05:41.271Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -220,6 +199,13 @@
     </url>
 
     <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/desenhando-animes/</loc>
+        <lastmod>2020-06-03T15:24:36.222Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/como-fazer-esboco/</loc>
         <lastmod>2020-06-03T15:24:36.222Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -228,13 +214,6 @@
 
     <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/dragon-ball-super/</loc>
-        <lastmod>2020-06-03T15:24:36.222Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/desenhando-animes/</loc>
         <lastmod>2020-06-03T15:24:36.222Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -339,13 +318,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/desenhar/</loc>
-        <lastmod>2020-06-08T21:06:29.762Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/como-desenhar/</loc>
         <lastmod>2020-06-08T21:06:29.762Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -369,6 +341,34 @@
     <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/curso-kerodesenhar-com/</loc>
         <lastmod>2020-06-08T21:06:29.762Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/para-iniciantes/</loc>
+        <lastmod>2020-06-10T02:50:10.727Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/desenhar/</loc>
+        <lastmod>2020-06-10T02:50:10.727Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/online/</loc>
+        <lastmod>2020-06-10T02:50:10.727Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/kero-desenhar/</loc>
+        <lastmod>2020-06-10T02:50:10.727Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
