@@ -3,13 +3,6 @@
 
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-reclame-aqui/</loc>
-        <lastmod>2020-05-08T02:07:34.643Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-resultados/</loc>
         <lastmod>2020-05-15T22:43:41.460Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,13 +12,6 @@
     <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libidman-caps/</loc>
         <lastmod>2020-05-16T19:30:56.055Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps/</loc>
-        <lastmod>2020-05-19T00:48:21.176Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -108,13 +94,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-composicao/</loc>
-        <lastmod>2020-06-01T14:07:43.866Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-para-que-serve/</loc>
         <lastmod>2020-06-01T14:07:43.866Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -185,13 +164,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libidman-caps-depoimentos/</loc>
-        <lastmod>2020-06-06T16:33:31.152Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-e-bom/</loc>
         <lastmod>2020-06-07T23:12:41.064Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -241,13 +213,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-original/</loc>
-        <lastmod>2020-06-10T04:07:02.791Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-como-usar/</loc>
         <lastmod>2020-06-10T04:07:02.791Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -262,8 +227,43 @@
     </url>
 
     <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-original/</loc>
+        <lastmod>2020-06-10T04:07:02.791Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/depoimento-libid-man-caps/</loc>
         <lastmod>2020-06-10T04:07:02.791Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-composicao/</loc>
+        <lastmod>2020-06-11T17:38:15.111Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps/</loc>
+        <lastmod>2020-06-11T17:38:15.111Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libidman-caps-depoimentos/</loc>
+        <lastmod>2020-06-11T17:38:15.111Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-06-11T17:38:15.111Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
