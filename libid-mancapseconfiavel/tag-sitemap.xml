@@ -66,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-como-tomar/</loc>
-        <lastmod>2020-05-30T18:55:53.972Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-anvisa/</loc>
         <lastmod>2020-05-30T18:55:53.972Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -136,13 +129,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-engrossa-mesmo/</loc>
-        <lastmod>2020-06-03T16:23:10.275Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-vale-a-pena/</loc>
         <lastmod>2020-06-05T10:40:24.364Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -185,21 +171,7 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man/</loc>
-        <lastmod>2020-06-07T23:12:41.064Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-original/</loc>
-        <lastmod>2020-06-08T18:24:48.296Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-preco/</loc>
         <lastmod>2020-06-08T18:24:48.296Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -213,6 +185,13 @@
     </url>
 
     <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-original/</loc>
+        <lastmod>2020-06-10T04:07:02.791Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-como-usar/</loc>
         <lastmod>2020-06-10T04:07:02.791Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -221,13 +200,6 @@
 
     <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-anvisa/</loc>
-        <lastmod>2020-06-10T04:07:02.791Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-original/</loc>
         <lastmod>2020-06-10T04:07:02.791Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -264,6 +236,34 @@
     <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-reclame-aqui/</loc>
         <lastmod>2020-06-11T17:38:15.111Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-como-tomar/</loc>
+        <lastmod>2020-06-13T01:18:18.277Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man/</loc>
+        <lastmod>2020-06-13T01:18:18.277Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-preco/</loc>
+        <lastmod>2020-06-13T01:18:18.277Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-engrossa-mesmo/</loc>
+        <lastmod>2020-06-13T01:18:18.277Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

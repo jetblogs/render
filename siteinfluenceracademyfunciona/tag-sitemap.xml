@@ -101,13 +101,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/curso/</loc>
-        <lastmod>2020-06-01T13:08:30.230Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/influencer-academy-e-bom/</loc>
         <lastmod>2020-06-02T23:52:44.531Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -117,13 +110,6 @@
     <url>
         <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/ensino-a-distancia/</loc>
         <lastmod>2020-06-02T23:52:44.531Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/marketing-digital/</loc>
-        <lastmod>2020-06-03T15:29:19.743Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -206,6 +192,13 @@
     </url>
 
     <url>
+        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/academia-de-influenciadores/</loc>
+        <lastmod>2020-06-08T18:15:24.416Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/influenciador-de-midias/</loc>
         <lastmod>2020-06-08T18:15:24.416Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -220,29 +213,8 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/academia-de-influenciadores/</loc>
-        <lastmod>2020-06-08T18:15:24.416Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/youtube/</loc>
-        <lastmod>2020-06-08T18:15:24.416Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/influenciador-digital/</loc>
         <lastmod>2020-06-08T18:15:24.416Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/influencer-academy-reclame-aqui/</loc>
-        <lastmod>2020-06-10T02:54:35.327Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -255,7 +227,7 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/carreiras/</loc>
+        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/influencer-academy-reclame-aqui/</loc>
         <lastmod>2020-06-10T02:54:35.327Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -299,6 +271,34 @@
     <url>
         <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/influencer/</loc>
         <lastmod>2020-06-11T16:38:38.210Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/marketing-digital/</loc>
+        <lastmod>2020-06-13T00:14:40.662Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/curso/</loc>
+        <lastmod>2020-06-13T00:14:40.662Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/youtube/</loc>
+        <lastmod>2020-06-13T00:14:40.662Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/carreiras/</loc>
+        <lastmod>2020-06-13T00:14:40.662Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
