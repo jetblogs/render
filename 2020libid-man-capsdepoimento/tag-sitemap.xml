@@ -10,21 +10,7 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-contem-gluten/</loc>
-        <lastmod>2020-06-08T18:25:00.799Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-mercado-livre/</loc>
-        <lastmod>2020-06-10T04:07:05.192Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libidman-caps/</loc>
         <lastmod>2020-06-10T04:07:05.192Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -47,13 +33,6 @@
     <url>
         <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-bula/</loc>
         <lastmod>2020-06-11T17:38:22.387Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-depoimento-sincero/</loc>
-        <lastmod>2020-06-13T01:18:21.915Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -95,13 +74,6 @@
 
     <url>
         <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-onde-comprar/</loc>
-        <lastmod>2020-06-14T17:28:59.495Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-anvisa/</loc>
         <lastmod>2020-06-14T17:28:59.495Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -150,6 +122,13 @@
     </url>
 
     <url>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-06-17T03:09:20.085Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man/</loc>
         <lastmod>2020-06-17T03:09:20.085Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -171,13 +150,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-06-17T03:09:20.085Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-engrossa-mesmo/</loc>
         <lastmod>2020-06-17T03:09:20.085Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -187,6 +159,48 @@
     <url>
         <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libidman-caps-preco/</loc>
         <lastmod>2020-06-17T03:09:20.085Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-depoimento-sincero/</loc>
+        <lastmod>2020-06-18T19:47:01.698Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-anvisa/</loc>
+        <lastmod>2020-06-18T19:47:01.698Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-como-tomar/</loc>
+        <lastmod>2020-06-18T19:47:01.698Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps/</loc>
+        <lastmod>2020-06-18T19:47:01.698Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libidman-caps/</loc>
+        <lastmod>2020-06-18T19:47:01.698Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-contem-gluten/</loc>
+        <lastmod>2020-06-18T19:47:01.698Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
