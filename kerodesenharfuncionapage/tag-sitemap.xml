@@ -73,22 +73,8 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/manga-para-iniciantes/</loc>
-        <lastmod>2020-05-30T18:28:47.548Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/curso/</loc>
         <lastmod>2020-05-31T10:04:50.279Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/tutoriais/</loc>
-        <lastmod>2020-06-01T13:03:20.842Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -115,6 +101,13 @@
     </url>
 
     <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/desenhando-animes/</loc>
+        <lastmod>2020-06-03T15:24:36.222Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/como-fazer-esboco/</loc>
         <lastmod>2020-06-03T15:24:36.222Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -123,13 +116,6 @@
 
     <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/dragon-ball-super/</loc>
-        <lastmod>2020-06-03T15:24:36.222Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/desenhando-animes/</loc>
         <lastmod>2020-06-03T15:24:36.222Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -179,13 +165,6 @@
 
     <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/kero-desenhar-kaneki/</loc>
-        <lastmod>2020-06-07T21:47:41.605Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/o-kero-desenhar-realmente-funciona/</loc>
         <lastmod>2020-06-07T21:47:41.605Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -318,20 +297,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/como-desenhar-naruto/</loc>
-        <lastmod>2020-06-17T01:54:52.209Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/como-desenhar/</loc>
-        <lastmod>2020-06-17T01:54:52.209Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/desenhando/</loc>
         <lastmod>2020-06-17T01:54:52.209Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -404,6 +369,41 @@
     <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/como-aprender-a-desenhar/</loc>
         <lastmod>2020-06-20T00:17:17.351Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/como-desenhar/</loc>
+        <lastmod>2020-06-21T14:17:57.103Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/como-desenhar-naruto/</loc>
+        <lastmod>2020-06-21T14:17:57.103Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/tutoriais/</loc>
+        <lastmod>2020-06-21T14:17:57.103Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/o-kero-desenhar-realmente-funciona/</loc>
+        <lastmod>2020-06-21T14:17:57.103Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/manga-para-iniciantes/</loc>
+        <lastmod>2020-06-21T14:17:57.103Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
