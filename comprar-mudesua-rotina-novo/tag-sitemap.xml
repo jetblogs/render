@@ -45,20 +45,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/hotmart/</loc>
-        <lastmod>2020-06-16T04:26:53.223Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/empreendedorismo/</loc>
-        <lastmod>2020-06-16T04:26:53.223Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/mude-a-sua-rotina/</loc>
         <lastmod>2020-06-16T04:26:53.223Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -143,13 +129,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/treinamento-msr/</loc>
-        <lastmod>2020-06-21T15:46:31.626Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/trabalhar-em-casa/</loc>
         <lastmod>2020-06-23T02:38:51.654Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -178,28 +157,7 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/msr-funciona/</loc>
-        <lastmod>2020-06-25T19:53:41.396Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/mude-sua-rotina-pdf/</loc>
-        <lastmod>2020-06-25T19:53:41.396Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/msr-curso/</loc>
-        <lastmod>2020-06-25T19:53:41.396Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/mude-sua-rotina-funciona/</loc>
         <lastmod>2020-06-25T19:53:41.396Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -213,14 +171,21 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/afiliado/</loc>
-        <lastmod>2020-06-26T12:36:55.565Z</lastmod>
+        <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/mude-sua-rotina-funciona/</loc>
+        <lastmod>2020-06-25T19:53:41.396Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/mude-sua-rotina-resultados/</loc>
+        <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/msr-curso/</loc>
+        <lastmod>2020-06-25T19:53:41.396Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/afiliado/</loc>
         <lastmod>2020-06-26T12:36:55.565Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -250,6 +215,48 @@
     <url>
         <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/mude-sua-rotina-curso/</loc>
         <lastmod>2020-06-26T12:36:55.565Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/msr-funciona/</loc>
+        <lastmod>2020-06-27T09:27:06.457Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/empreendedorismo/</loc>
+        <lastmod>2020-06-27T09:27:06.457Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/treinamento-msr/</loc>
+        <lastmod>2020-06-27T09:27:06.457Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/afiliados/</loc>
+        <lastmod>2020-06-27T09:27:06.457Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/mude-sua-rotina-resultados/</loc>
+        <lastmod>2020-06-27T09:27:06.457Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/comprar-mudesua-rotina-novo/tags/hotmart/</loc>
+        <lastmod>2020-06-27T09:27:06.457Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
