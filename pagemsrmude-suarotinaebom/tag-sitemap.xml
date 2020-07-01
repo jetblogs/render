@@ -17,13 +17,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/monetizze/</loc>
-        <lastmod>2020-06-07T23:12:34.635Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/negocios-online/</loc>
         <lastmod>2020-06-08T18:22:16.491Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -75,13 +68,6 @@
     <url>
         <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/trabalhar-em-casa/</loc>
         <lastmod>2020-06-14T18:29:25.885Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/renda-extra/</loc>
-        <lastmod>2020-06-16T04:26:49.977Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -171,13 +157,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/curso-mude-sua-rotina/</loc>
-        <lastmod>2020-06-23T23:32:45.385Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/marketing-digital/</loc>
         <lastmod>2020-06-25T19:53:36.390Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -194,20 +173,6 @@
     <url>
         <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/mude-sua-rotina/</loc>
         <lastmod>2020-06-25T19:53:36.390Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/mude-sua-rotina-resultados/</loc>
-        <lastmod>2020-06-26T12:36:49.936Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/mude-sua-rotina-curso/</loc>
-        <lastmod>2020-06-27T09:26:09.087Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -276,13 +241,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/mude-a-sua-rotina/</loc>
-        <lastmod>2020-06-30T00:31:06.918Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/msr-curso/</loc>
         <lastmod>2020-06-30T00:31:06.918Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -304,6 +262,13 @@
     </url>
 
     <url>
+        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/mude-a-sua-rotina/</loc>
+        <lastmod>2020-06-30T00:31:06.918Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/mude-sua-rotina-pdf/</loc>
         <lastmod>2020-06-30T00:31:06.918Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -313,6 +278,41 @@
     <url>
         <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/mude-sua-rotina-depoimento/</loc>
         <lastmod>2020-06-30T00:31:06.918Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/renda-extra/</loc>
+        <lastmod>2020-07-01T04:53:02.778Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/mude-sua-rotina-resultados/</loc>
+        <lastmod>2020-07-01T04:53:02.778Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/monetizze/</loc>
+        <lastmod>2020-07-01T04:53:02.778Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/mude-sua-rotina-curso/</loc>
+        <lastmod>2020-07-01T04:53:02.778Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/pagemsrmude-suarotinaebom/tags/curso-mude-sua-rotina/</loc>
+        <lastmod>2020-07-01T04:53:02.778Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
