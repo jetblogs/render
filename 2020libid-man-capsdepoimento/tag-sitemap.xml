@@ -31,20 +31,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps/</loc>
-        <lastmod>2020-06-23T02:39:15.844Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-preco/</loc>
-        <lastmod>2020-06-25T19:54:35.461Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-como-usar/</loc>
         <lastmod>2020-06-25T19:54:35.461Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -109,13 +95,6 @@
 
     <url>
         <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-e-bom/</loc>
-        <lastmod>2020-07-16T10:18:45.674Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-como-tomar/</loc>
         <lastmod>2020-07-16T10:18:45.674Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -192,7 +171,7 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man/</loc>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-depoimento-sincero/</loc>
         <lastmod>2020-07-20T19:49:29.765Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -206,7 +185,7 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-depoimento-sincero/</loc>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man/</loc>
         <lastmod>2020-07-20T19:49:29.765Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -255,21 +234,7 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-original/</loc>
-        <lastmod>2020-07-23T21:45:02.564Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-anvisa/</loc>
-        <lastmod>2020-07-23T21:45:02.564Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-depoimento/</loc>
         <lastmod>2020-07-23T21:45:02.564Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +243,41 @@
     <url>
         <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-para-que-serve/</loc>
         <lastmod>2020-07-23T21:45:02.564Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-como-tomar/</loc>
+        <lastmod>2020-07-27T19:47:28.961Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-original/</loc>
+        <lastmod>2020-07-27T19:47:28.961Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps/</loc>
+        <lastmod>2020-07-27T19:47:28.961Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-preco/</loc>
+        <lastmod>2020-07-27T19:47:28.961Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-07-27T19:47:28.961Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
