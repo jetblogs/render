@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/meu-depoimento-libid-man-caps/</loc>
-        <lastmod>2020-07-02T14:44:05.869Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-funciona-mesmo-sera/</loc>
         <lastmod>2020-07-13T21:15:14.936Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -73,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/depoimento-libid-man-caps/</loc>
-        <lastmod>2020-07-21T21:23:15.431Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-funciona/</loc>
         <lastmod>2020-07-21T21:23:15.431Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -87,8 +73,8 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libidman-caps-preco/</loc>
-        <lastmod>2020-07-23T21:44:58.547Z</lastmod>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/depoimento-libid-man-caps/</loc>
+        <lastmod>2020-07-21T21:23:15.431Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -136,22 +122,8 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-efeitos-colaterais/</loc>
-        <lastmod>2020-08-04T04:27:31.127Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libidman-caps-como-usar/</loc>
         <lastmod>2020-08-04T04:27:31.127Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-depoimento-sincero/</loc>
-        <lastmod>2020-08-06T03:19:17.495Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -241,20 +213,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-como-usar/</loc>
-        <lastmod>2020-08-11T05:23:17.505Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-depoimentos/</loc>
-        <lastmod>2020-08-11T05:23:17.505Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-preco/</loc>
         <lastmod>2020-08-12T02:01:11.386Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -278,6 +236,48 @@
     <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-reclame-aqui/</loc>
         <lastmod>2020-08-12T02:01:11.386Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-como-usar/</loc>
+        <lastmod>2020-08-12T23:04:20.229Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libidman-caps-preco/</loc>
+        <lastmod>2020-08-12T23:04:20.229Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-efeitos-colaterais/</loc>
+        <lastmod>2020-08-12T23:04:20.229Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/meu-depoimento-libid-man-caps/</loc>
+        <lastmod>2020-08-12T23:04:20.229Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-depoimento-sincero/</loc>
+        <lastmod>2020-08-12T23:04:20.229Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-depoimentos/</loc>
+        <lastmod>2020-08-12T23:04:20.229Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
