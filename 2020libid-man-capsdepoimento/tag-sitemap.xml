@@ -122,22 +122,8 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man/</loc>
-        <lastmod>2020-07-30T20:10:40.640Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-funciona/</loc>
         <lastmod>2020-07-30T20:10:40.640Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-resultados/</loc>
-        <lastmod>2020-08-04T04:27:39.145Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -206,28 +192,7 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-reclame-aqui/</loc>
-        <lastmod>2020-08-11T05:23:28.929Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-como-tomar/</loc>
-        <lastmod>2020-08-12T02:01:18.753Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-mercado-livre/</loc>
-        <lastmod>2020-08-12T02:01:18.753Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-para-que-serve/</loc>
         <lastmod>2020-08-12T02:01:18.753Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -278,6 +243,41 @@
     <url>
         <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-onde-comprar/</loc>
         <lastmod>2020-08-12T23:04:25.700Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-como-tomar/</loc>
+        <lastmod>2020-08-15T10:45:29.471Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-resultados/</loc>
+        <lastmod>2020-08-15T10:45:29.471Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-reclame-aqui/</loc>
+        <lastmod>2020-08-15T10:45:29.471Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man/</loc>
+        <lastmod>2020-08-15T10:45:29.471Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/2020libid-man-capsdepoimento/tags/libid-man-caps-para-que-serve/</loc>
+        <lastmod>2020-08-15T10:45:29.471Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
