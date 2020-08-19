@@ -80,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/desenhar-do-zero/</loc>
-        <lastmod>2020-07-13T20:58:18.385Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/como-aprender-a-desenhar/</loc>
         <lastmod>2020-07-13T20:58:18.385Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -164,20 +157,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/como-desenhar-para-iniciantes/</loc>
-        <lastmod>2020-07-23T21:27:37.748Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/tutoriais/</loc>
-        <lastmod>2020-07-23T21:27:37.748Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/como-desenhar-anime-e-manga/</loc>
         <lastmod>2020-07-27T19:26:28.734Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -242,13 +221,6 @@
 
     <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/aprender-online/</loc>
-        <lastmod>2020-08-07T01:10:50.500Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/dragon-ball-super-desenho/</loc>
         <lastmod>2020-08-07T01:10:50.500Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -439,6 +411,34 @@
     <url>
         <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/anime/</loc>
         <lastmod>2020-08-17T22:42:53.427Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/desenhar-do-zero/</loc>
+        <lastmod>2020-08-19T05:41:24.745Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/dragon-ball-super-desenho/</loc>
+        <lastmod>2020-08-19T05:41:24.745Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/tutoriais/</loc>
+        <lastmod>2020-08-19T05:41:24.745Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/kerodesenharfuncionapage/tags/como-desenhar-para-iniciantes/</loc>
+        <lastmod>2020-08-19T05:41:24.745Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
