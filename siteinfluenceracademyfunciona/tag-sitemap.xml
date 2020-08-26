@@ -73,13 +73,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/carreiras/</loc>
-        <lastmod>2020-07-30T19:55:51.411Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/influencer-academy-gabriella-ferreira/</loc>
         <lastmod>2020-08-06T02:57:33.643Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -115,22 +108,8 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/influencer-academy-turma-2/</loc>
-        <lastmod>2020-08-12T01:54:52.651Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/youtube/</loc>
         <lastmod>2020-08-12T22:59:18.585Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/influencer-academy-e-bom/</loc>
-        <lastmod>2020-08-15T10:25:48.399Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -213,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/curso-passo-a-passo/</loc>
-        <lastmod>2020-08-19T05:43:37.372Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/influencer/</loc>
         <lastmod>2020-08-19T05:43:37.372Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -227,7 +199,7 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/ead/</loc>
+        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/curso-passo-a-passo/</loc>
         <lastmod>2020-08-19T05:43:37.372Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -290,13 +262,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/negocios-digitais/</loc>
-        <lastmod>2020-08-21T03:42:03.562Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/influencer-academy-reclame-aqui/</loc>
         <lastmod>2020-08-24T17:07:45.203Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -305,13 +270,6 @@
 
     <url>
         <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/facebook/</loc>
-        <lastmod>2020-08-24T17:07:45.203Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/influenciador-digital/</loc>
         <lastmod>2020-08-24T17:07:45.203Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -327,6 +285,48 @@
     <url>
         <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/curso-online/</loc>
         <lastmod>2020-08-24T17:07:45.203Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/influencer-academy-turma-2/</loc>
+        <lastmod>2020-08-26T12:57:37.177Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/influencer-academy-e-bom/</loc>
+        <lastmod>2020-08-26T12:57:37.177Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/influenciador-digital/</loc>
+        <lastmod>2020-08-26T12:57:37.177Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/ead/</loc>
+        <lastmod>2020-08-26T12:57:37.177Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/negocios-digitais/</loc>
+        <lastmod>2020-08-26T12:57:37.177Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/siteinfluenceracademyfunciona/tags/carreiras/</loc>
+        <lastmod>2020-08-26T12:57:37.177Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

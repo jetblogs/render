@@ -108,13 +108,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/curso-passo-a-passo/</loc>
-        <lastmod>2020-07-16T10:07:12.289Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling-rose-de-mer-para-melasma/</loc>
         <lastmod>2020-07-17T19:56:24.347Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -311,13 +304,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/christina-zehavi-rose-de-mer/</loc>
-        <lastmod>2020-08-12T01:55:21.233Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/beleza-e-estetica/</loc>
         <lastmod>2020-08-12T01:55:21.233Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -327,6 +313,13 @@
     <url>
         <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/carreiras/</loc>
         <lastmod>2020-08-12T23:00:21.250Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/rose-de-mer/</loc>
+        <lastmod>2020-08-15T10:26:06.944Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -354,13 +347,6 @@
 
     <url>
         <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling-rose-de-mer-curso/</loc>
-        <lastmod>2020-08-15T10:26:06.944Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/rose-de-mer/</loc>
         <lastmod>2020-08-15T10:26:06.944Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -507,13 +493,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling-do-mar-morto/</loc>
-        <lastmod>2020-08-21T03:42:15.606Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/rose-de-mer-peeling-antes-e-depois/</loc>
         <lastmod>2020-08-24T17:07:53.924Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -550,7 +529,28 @@
 
     <url>
         <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/christina-kosmetik-rose-de-mer/</loc>
-        <lastmod>2020-08-24T17:07:53.924Z</lastmod>
+        <lastmod>2020-08-26T12:57:53.086Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/peeling-do-mar-morto/</loc>
+        <lastmod>2020-08-26T12:57:53.086Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/christina-zehavi-rose-de-mer/</loc>
+        <lastmod>2020-08-26T12:57:53.086Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/simplesrose-demerpassopasso/tags/curso-passo-a-passo/</loc>
+        <lastmod>2020-08-26T12:57:53.086Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
