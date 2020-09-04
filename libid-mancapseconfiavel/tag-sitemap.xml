@@ -115,13 +115,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-tem-na-farmacia/</loc>
-        <lastmod>2020-08-20T07:01:31.142Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-funciona/</loc>
         <lastmod>2020-08-20T07:01:31.142Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -150,14 +143,14 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-anvisa/</loc>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-original/</loc>
         <lastmod>2020-08-26T13:04:25.957Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-original/</loc>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-anvisa/</loc>
         <lastmod>2020-08-26T13:04:25.957Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -199,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libidman-caps-funciona/</loc>
-        <lastmod>2020-08-30T21:15:46.559Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-oficial/</loc>
         <lastmod>2020-08-30T21:15:46.559Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -220,15 +206,8 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-depoimento/</loc>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libidman-caps-funciona/</loc>
         <lastmod>2020-08-30T21:15:46.559Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-mercado-livre/</loc>
-        <lastmod>2020-09-01T12:26:01.361Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -255,13 +234,6 @@
     </url>
 
     <url>
-        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-estimulante-sexual/</loc>
-        <lastmod>2020-09-03T11:24:33.924Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-resultados/</loc>
         <lastmod>2020-09-03T11:24:33.924Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -278,6 +250,34 @@
     <url>
         <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-para-que-serve/</loc>
         <lastmod>2020-09-03T11:24:33.924Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-mercado-livre/</loc>
+        <lastmod>2020-09-04T01:57:38.619Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-tem-na-farmacia/</loc>
+        <lastmod>2020-09-04T01:57:38.619Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-estimulante-sexual/</loc>
+        <lastmod>2020-09-04T01:57:38.619Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://csites.onrender.com/libid-mancapseconfiavel/tags/libid-man-caps-depoimento/</loc>
+        <lastmod>2020-09-04T01:57:38.619Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
